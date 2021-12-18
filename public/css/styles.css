@@ -1,55 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-
-.table{
-    width: 50%;
-    border-collapse: collapse;
-    border-collapse: collapse;
-    border-spacing: 0;
-    width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
-    padding-bottom:100px;
- 
-}
-
-
-
-
-.th{
-  color: white;
-  border: 1px solid black;
-  padding: 10px;
-  text-align: center
-}
-
-
-.td{
-  color: black;
-  border: 1px solid black;
-  padding: 0.5rem;
-  text-align: center
-
-}
-
-
-.evenTable{
-  background-color: #F2E4FD;
- 
-}
-
-.oddTable{
-  background-color: white;
-}
-
-.headTable{
-  background-color: #6734D1;
-}
-
-
 h1 {
-  color: #6734D1;
+  color: #A8D2E8;
   text-align: center;
 }
 
@@ -123,58 +76,10 @@ content {
 }
 
 
-.hi {
-  padding: 20px;
-  margin: 50px;
-  margin-left:15%; 
-  margin-right:15%;
-}
-
-.enterButton {
-  border-radius: 10px;
-  background-color: #6734D1; 
-  border: none;
-  color: white;
-
-  height: 50px;
-  /* margin-left:40%;  */
-  /* margin-right:40%; */
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 25px;
-  transition-duration: 0.4s;
-  width:100%; 
-}
-
-.enterButton:hover {
-  background-color: #f2e4fd; 
-  color: black;
-}
-
-.addPoints{
-  width:50%; 
-  margin-left:25%; 
-  margin-right:25%;   
-}
-
-.tr2 {
-  padding: 0px;
-  height: 50px;
-}
-
-.pointsBox{
-  border-radius: 10px;
-  width: 50%;
-  text-align: center;
-  height: 50px; 
-  width:100%; 
-  font-size: 25px;
-}
 
 .drop {
   border-radius: 10px;
-  background-color: #6734D1; 
+  background-color: #A8D2E8; 
   border: none;
   color: white;
   width:20%; 
@@ -232,7 +137,7 @@ content {
 
 .button {
   border-radius: 10px;
-  background-color: #6734D1; 
+  background-color: #A8D2E8; 
   border: none;
   color: white;
   width:20%; 
