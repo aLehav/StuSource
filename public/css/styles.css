@@ -1,32 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-.table{
-    width: 50%;
-    border-collapse: collapse;
-    border-collapse: collapse;
-    border-spacing: 0;
-    width:70%; 
-    margin-left:15%; 
-    margin-right:15%;
-    padding-bottom:100px;
-}
-
-.th{
-  color: #001d7a;
-  border: 1px solid #001d7a;
-  padding: 10px;
-  text-align: center
-}
-
-
-.td{
-  color: black;
-  border: 1px solid black;
-  padding: 0.5rem;
-  text-align: center
-}
-
 h1 {
   color: #A8D2E8;
   text-align: center;
@@ -40,10 +14,11 @@ p {
 
 table {
   border-collapse: collapse;
-  border-spacing: 0;
+  border-spacing: 2;
   width:70%; 
   margin-left:15%; 
   margin-right:15%;
+  padding: 15px;
   padding-bottom:100px;
 }
 
