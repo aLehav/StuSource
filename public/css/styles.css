@@ -193,7 +193,6 @@ header {
     border-radius: 20px;
     cursor: pointer;
     margin: 5px 10px ;
-    transition: all 0.2s ease 0s;
 }
 
 .headerbtn:hover {
