@@ -149,7 +149,6 @@ content {
   text-decoration: none;
   display: inline-block;
   font-size: 25px;
-  transition-duration: 0.4s;
 }
 
 .button:hover {
