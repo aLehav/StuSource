@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "Odyssey Hackathon Project",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Node.js app using html and css",
   "engines": {
     "node": "14.x"
   },
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicole-russack/TeamAScope"
+    "url": "https://github.com/aLehav/OdysseyCodathon"
   },
   "keywords": [
     "node",
