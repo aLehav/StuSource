@@ -159,9 +159,9 @@ content {
 
 header {
     height: 60%;
-    /*padding: 10px 10%;*/
+    padding: 10px 10%;
     border-radius: 40px;
-    /*margin: 15px 20px 0px;*/
+    margin: 15px 20px 0px;
     background-color: #A8D2E8;
 }
 
