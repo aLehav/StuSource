@@ -295,29 +295,9 @@ header {
     transition: all 0.2s ease 0s;
 }
 
-.eboardbtn {
-    position: relative;
-    size-adjust: auto;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 500;
-    font-size:16px;
-    color: #edf0f1;
-    padding: 15px;
-    background-color: #A8D2E8;
-    border: none;
-    border-radius: 20px;
-    cursor: pointer;
-    transition: all 0.2s ease 0s;
-}
-
 .headerbtn:hover {
     background-color: white;
     color: #A8D2E8;
-}
-
-.eboardbtn:hover {
-    background-color: #3B148B;
-    color: #fff;
 }
 
 .btna {
