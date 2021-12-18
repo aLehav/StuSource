@@ -1,0 +1,8 @@
+to whoever may be reading this, some notes:
+regarding css inheriting to the html files, i got that as you can see. only took 5 hours.
+regarding linking to sub directories, I am lost as hell
+Kyler said maybe aws is better for that
+While a full transition would break my heart, I'm looking at docker files and whatnot now
+We should keep it heavily in mind if someone knows it
+Until then, i got a long few hours ahead of me
+bon voyage
