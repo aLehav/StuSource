@@ -260,14 +260,14 @@ header {
     padding: 10px 10%;
     border-radius: 40px;
     margin: 15px 20px 0px;
-    background-color:#6734D1; 
+    background-color: #A8D2E8;
 }
 
 .headerlogo {
     cursor: pointer;
     height: 8%;
     width: 16%;
-    background-color:#6734D1; 
+    background-color:#A8D2E8; 
     color: #fff;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -312,7 +312,7 @@ header {
 
 .headerbtn:hover {
     background-color: white;
-    color: #6734D1;
+    color: #A8D2E8;
 }
 
 .eboardbtn:hover {
