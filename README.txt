@@ -1,6 +1,6 @@
 StuSource
 Adam Lehavi
 Ryan Lampotang
-Ally
-Julia
-Sanya
+Ally Guo
+Julia Wang
+Sanya Khattar
